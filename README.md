@@ -1,3 +1,9 @@
 # playing_with_git
-Ponie
-####Ponie
+
+new text
+plus my old text
+####UNICORN
+
+#red
+##blue
+

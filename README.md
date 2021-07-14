@@ -2,8 +2,11 @@
 
 new text
 plus my old text
-####UNICORN
 
-#red
-##blue
+####UNICORN.
 
+Trying a new line.
+Dogs
+dogs.
+
+cat cat cat
